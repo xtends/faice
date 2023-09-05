@@ -1,5 +1,6 @@
 # iApps - from zero to hero<br />
 Intelligent Agents Python Programming FAICE platform
+FAICE (c) Gregory L. Magnusson 2023 GPLv3
 
 <b><a href="https://github.com/faicey">FAICE</a> = Framework for Autonomous and Intelligent Computer Expressions</b></br>
 
